@@ -1,4 +1,4 @@
-In the project directory, First run
+First run
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -22,3 +22,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 #### The application is deployed here https://tic-tac-toe-onlinemultiplayer.web.app/
 where two users can play game online with the help of Ids as shown below:
 1. One user can create a Game Id and share with his friend and another user can join using that Id.
+
+Now a demo is shown as below
