@@ -24,4 +24,7 @@ where two users can play game online with the help of Ids as shown below:
 1. One user can create a Game Id and share with his friend and another user can join using that Id.
 
 Now a demo is shown as below
-https://github.com/kalathurkishore/Tic-Tac-Toe/blob/master/tic-tac-toe-video.mp4
+
+
+https://user-images.githubusercontent.com/34184719/209575096-e1789f2c-b6b2-4382-8b67-367241583f89.mp4
+
