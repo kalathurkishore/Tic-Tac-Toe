@@ -16,9 +16,7 @@ Launches the test runner in the interactive watch mode.<br />
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-#user 1
-![image](https://user-images.githubusercontent.com/34184719/209573820-812f4ee3-7638-492e-bc27-a7fe411ae4e5.png)
+#user 1(localhost:3000) and #user 2(localhost:3001)
 
-#user 2
-![image](https://user-images.githubusercontent.com/34184719/209573870-c01ed4f7-5e50-4e7a-a6a4-c855ed1a68fb.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/34184719/209574049-ee5b90c2-ad61-4e05-a786-96f99c44a9ad.png">
 
