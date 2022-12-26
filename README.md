@@ -19,4 +19,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/34184719/209574049-ee5b90c2-ad61-4e05-a786-96f99c44a9ad.png">
 
-# The application is deployed here https://tic-tac-toe-onlinemultiplayer.web.app/
+#### The application is deployed here https://tic-tac-toe-onlinemultiplayer.web.app/
+where two users can play game online with the help of Ids as shown below:
+1. One user can create a Game Id and share with his friend and another user can join using that Id.
