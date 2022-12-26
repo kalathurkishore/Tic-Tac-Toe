@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "tic-tac-toe-onlinemultiplayer",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
